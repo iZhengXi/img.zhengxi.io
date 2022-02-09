@@ -2,7 +2,7 @@
 <img width="100" align="right" alt="PicX" src="https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/PicX/picx-logo.png">
 </a>
 
-# PicX 图床
+# PicX 图床！
 
 [![Author](https://img.shields.io/badge/author-XPoet-violet.svg)](https://github.com/XPoet)
 [![Release](https://img.shields.io/github/release/XPoet/picx.svg)](https://github.com/XPoet/picx/releases)
